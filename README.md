@@ -11,14 +11,15 @@ Ministry of Environment
 
 ## Idea
 
-1. Understand the Impact of E-Waste
-2. Choose Refurbished Electronics to Minimize E-Waste
-3. Extend the Lifespan of Your Electronics
-4. Donate or Sell Unwanted Electronics
-5. Properly Recycle E-Waste
-6. Educate Yourself and Others about E-Waste
-7. Support Legislation & Advocacy Efforts for Minimizing E-Waste
-8. Embrace Sustainable Habits to Avoid E-Waste.
+Robotic processes:Develop automated system for disassembling and recycling electronic components.
+
+Monitoring Systems: Use smart devices to track energy consumption and identify inefficiencies.
+
+Buy-Back Programs: Participate in manufacturer buy-back programs to recycle old devices.
+
+Buy Lesser Products: Be mindful of your purchases and avoid unnecessary gadgets.
+
+Take Them Back to the Retailer: Return old electronics to retailers for proper disposal.
 
 Environment Conserving resource promoting a healthier and safer world. By reducing, reusing, and recycling electronic devices, we can make a positive impact and pave the way for a sustainable future.
 
