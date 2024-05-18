@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:18:05:2024
+## Register Number: 212223040125
+## Name: NANDHIKA P
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
@@ -48,8 +48,12 @@ User Dashboard: Personalized dashboards for users to track their recycling activ
 
 Mapping and Location:
 
-Google Maps API for location services. Authentication and User Management:
+Google Maps API for location services. 
+
+Authentication and User Management:
 
 Auth0 for user authentication. Database:
 
 MongoDB for storing user, facility, and device data. Educational Content:
+
+Dependencies in e-waste management refer to the interconnected factors that influence the effectiveness and success of e-waste management initiatives.
